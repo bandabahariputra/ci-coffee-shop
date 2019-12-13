@@ -1,0 +1,140 @@
+body {
+	font-family: 'Montserrat';
+}
+
+.navbar-brand {
+	font-family: 'Pacifico';
+	font-size: 22px;
+}
+
+.nav-item span {
+    font-weight: 600;
+    color: black;
+}
+
+.carousel {
+	padding-top: 100px;
+	min-height: 500px;
+}
+
+.carousel h4 {
+	font-family: 'Lora';
+	font-size: 27px;
+}
+
+.carousel p {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	font-weight: 200;
+}
+
+.carousel .btn-order {
+	color: white;
+	background-color: #FF7F7F;
+	border-radius: 0;
+	box-shadow: 1px 5px 10px rgba(0,0,0,0.6);
+	text-transform: uppercase;
+	margin-bottom: 40px;
+}
+
+.img-bg {
+	width: 310px;
+	height: 310px;
+	background-color: #FFD8DA;
+	border-radius: 100%;
+}
+
+.carousel img {
+	width: 390px;
+	margin-top: -60px;
+	margin-left: -50px;
+	filter: drop-shadow(0 4px 4px rgba(0,0,0,0.6));
+}
+
+.menu h5 {
+	font-family: 'Lora';
+	font-size: 24px;
+}
+
+.menu p {
+	color: #adadad;
+	font-size: 14px;
+}
+
+a.btn-pesan {
+	color: white;
+	background-color: #FF7F7F;
+	border-radius: 0;
+}
+
+a.btn-pesan:hover {
+	color: white;
+	box-shadow: 1px 2px 6px rgba(0,0,0,0.5);
+}
+
+.pesanan .pesanan-anda {
+	font-weight: 600;
+	font-size: 22px;
+	margin-bottom: 30px;
+}
+
+.pesanan img {
+	width:100px;
+  height:100px;
+  object-fit:cover;
+  border-radius:50%;
+}
+
+.pesanan .card {
+	border: none;
+}
+
+.pesanan .card-title {
+	margin-top: 5px;
+}
+
+.pesanan .card-text {
+	margin-top: -15px;
+}
+
+.pesanan span.subtotal-item {
+	font-weight: 600;
+}
+
+.pesanan .list-pesanan i {
+	color: black;
+}
+
+input.input-qty {
+	width: 40px;
+	text-align: center;
+	background-color: transparent;
+	border-radius: 5px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #90919A;
+}
+
+button.btn-qty {
+	background-color: transparent;
+	border-style: none;
+	color: black;
+}
+
+.pesanan h5.info-bayar-title  {
+	font-size: 16px;
+	margin-left: 10px;
+	margin-top: 20px;
+	font-weight: 600;
+}
+
+.pesanan .info-bayar hr {
+	background-color: rgba(255,255,255,0.6);
+	margin-top: -5px;
+	margin-left: -5px;
+}
+
+.info-bayar p {
+	color: rgba(255,255,255,0.5);
+	font-size: 13px;
+}
