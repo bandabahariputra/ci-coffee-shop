@@ -22,7 +22,7 @@ class Menu extends CI_Controller {
 
 		$this->load->library('pagination');
 
-		$config['base_url'] = 'http://localhost/coffe-shop/menu/index';
+		$config['base_url'] = 'http://localhost/ci-coffee-shop/menu/index';
 		$config['total_rows'] = $totalMenu;
 		$config['per_page'] = 4;
 
