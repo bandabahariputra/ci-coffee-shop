@@ -1,16 +1,13 @@
-# ci-coffee-shop
-Aplikasi pesan kopi menggunakan Codeigniter 3
+# Aplikasi Pesan Kopi menggunakan CodeIgniter 3
 
+Aplikasi pemesanan kopi menggunakan CodeIgniter 3.
 
-[View Demo](https://youtu.be/lLFsV0a_rG8)
+Klik view demo dibawah ini untuk melihat demo videonya.
+[View demo](https://youtu.be/lLFsV0a_rG8)
 
+## Development server
 
-### Credit to:
-
-CodeIgniter: https://codeigniter.com/
-
-Bootstrap: https://getbootstrap.com/
-
-Font Awesome: https://fontawesome.com/
-
-SweetAlert2: https://sweetalert2.github.io/
+1. Download project ini dan letakkan didalam folder `htdocs`
+2. Buat database baru dengan nama `db_coffee_shop`
+3. Import database yang sudah ada didalam folder project
+4. Jalankan `http://localhost/ci-coffee-shop/` di browser
